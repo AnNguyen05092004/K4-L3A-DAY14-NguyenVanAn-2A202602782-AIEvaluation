@@ -264,7 +264,7 @@ verbosity bias và self-preference bằng cách nào?
 
 > *Câu trả lời:*
 
-### Exercise 3.4 — Framework Comparison (Bonus +10)
+### Exercise 3.4 — Framework Comparison (Bonus +5)
 
 Chỉ làm sau khi hoàn thành 3.1–3.3. Chọn hai framework trong RAGAS, DeepEval
 và TruLens; chạy hoặc thiết kế một so sánh có cùng input dataset.

@@ -40,13 +40,13 @@ Nó chỉ làm I/O và format Exercise 3.2; nó không viết lại evaluation m
 Lab làm **cá nhân**. Tên repo:
 
 ```text
-K4_Day14_AI_Evaluation_<Phong>_<MaSoSinhVien>_<HoVaTenKhongDauCach>
+K4-L3A-DAY14-<HoVaTen>-<MSSV>-AIEvaluation
 ```
 
 Ví dụ:
 
 ```text
-K4_Day14_AI_Evaluation_D305_2A20260XXX_NguyenVanA
+K4-L3A-DAY14-NguyenVanAn-L3A202600280-AIEvaluation
 ```
 
 ### Cách A — Fork repo
@@ -58,7 +58,7 @@ K4_Day14_AI_Evaluation_D305_2A20260XXX_NguyenVanA
 
 ```bash
 git clone <URL_FORK_CUA_BAN>
-cd K4_Day14_AI_Evaluation_<Phong>_<MSSV>_<HoTen>
+cd K4-L3A-DAY14-<HoVaTen>-<MSSV>-AIEvaluation
 ```
 
 ### Cách B — Tạo repo mới
@@ -717,7 +717,9 @@ từng answer.
 
 ## 12. Bonus — Chỉ làm sau phần bắt buộc
 
-### Exercise 3.4 (+10)
+> Tổng bonus của bài lab tối đa **10 điểm** (Exercise 3.4 +5, Exercise 3.5 +5). Đây là điểm sản phẩm lab, không phải điểm giơ tay / pitching.
+
+### Exercise 3.4 (+5)
 
 So sánh hai evaluation frameworks trên cùng dataset/input. Không cần tạo file
 code bắt buộc mới; ghi phương pháp và kết quả trong `exercises.md`.
